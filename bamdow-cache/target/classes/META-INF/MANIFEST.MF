@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: bamdow-cache
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.bamdow
+Build-Jdk: 1.7.0_80
+Built-By: zhuja
+Created-By: Maven Integration for Eclipse
+
